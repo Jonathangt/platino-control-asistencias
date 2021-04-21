@@ -9,7 +9,7 @@ Tecnologias usadas
 - Inicio de sesión de usuario registrado por medio del código de usuario.
 - Registro de hora de entrada, hora de almuerzo inicio, hora de almuerzo regreso, hora de salida.
 - Visualización del reporte de todos los usuarios que han marcado su control de asistencia
-- 
+
 ## Restricciones
 - El usuario no podrá marcar dos veces el tipo de control de asistencia.
 
